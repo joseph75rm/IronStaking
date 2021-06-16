@@ -2,6 +2,6 @@
 "name": "Iron Staking Pool",
 "description": "Cardano pool on Iron Staking",
 "ticker": "IRN",
-"homepage": "https://ironstaking.space"
-"extended": ""
+"homepage": "https://ironstaking.space",
+"extended": "https://git.io/JncDL"
 }
